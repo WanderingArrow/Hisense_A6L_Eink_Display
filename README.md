@@ -11,6 +11,7 @@ This repository contains my findings from attempts to make the secondary E-ink p
 - [ ] E-ink side lockscreen functionality
 - [ ] Automation script stability (currently experimental and prone to system crashes)
 
+## [See Findings.md for the full technical writeup.](https://github.com/WanderingArrow/Hisense_A6L_Eink_Display/blob/main/Findings.md)
 ## Prerequisites & Rooting
 
 Before deploying this test script, your Hisense A6L must be running an Android 11 GSI with active root privileges. Please refer to [tombaczynski's Hisense-A6L repository](https://github.com/tombaczynski/Hisense-A6L) for a guide on unlocking the bootloader and patching the initial boot image if you use Magisk.
